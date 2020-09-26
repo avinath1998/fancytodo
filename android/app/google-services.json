@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "734298091326",
+    "firebase_url": "https://fancytodo-580be.firebaseio.com",
+    "project_id": "fancytodo-580be",
+    "storage_bucket": "fancytodo-580be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734298091326:android:ca845345ebe764a950466f",
+        "android_client_info": {
+          "package_name": "com.avinath.fancy_todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734298091326-4ki1o7jshr1lrqm92a7ipfrg7nolj9mp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0rEEFMBGuFe1inw74i9gj-N-jSZBpD3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734298091326-4ki1o7jshr1lrqm92a7ipfrg7nolj9mp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
